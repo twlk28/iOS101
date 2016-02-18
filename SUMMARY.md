@@ -11,7 +11,7 @@
   - [NSDictionary](section1/NSDictionary.md)
   - [NSArray](section1/NSArray.md)
   - [NSSet](section1/NSSet.md)
-  - [NSOrderSet](section1/NSOrderSet.md)
+  - [NSOrderedSet](section1/NSOrderedSet.md)
   - [NSDate*](section1/NSDate.md)
 * [功能 API](section2/README.md)
   - [NSURL](section2/NSURL.md)
