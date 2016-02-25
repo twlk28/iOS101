@@ -17,5 +17,12 @@
   - [NSURL](section2/NSURL.md)
   - [NSURLRequest](section2/NSURLRequest.md)
   - [NSURLSession](section2/NSURLSession.md)
+* [issues](section9/README.md)
+  - [NSCoding](section9/NSCoding.md)
+  - [String](section9/String.md)
+  - [UIGestureRecognizer](section9/UIGestureRecognizer.md)
+  - [UIResponder](section9/UIResponder.md)
+
+  
 
   
